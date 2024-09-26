@@ -1,6 +1,6 @@
 # WAD-DERIDDA
 Repository Mata Kuliah Pengembangan Aplikasi Website
 
-Nama: Deridda Ahmad Zarrar Ray
-Kelas: SI4605
+Nama: Deridda Ahmad Zarrar Ray <br>
+Kelas: SI4605 <br>
 NIM: 1202223353
